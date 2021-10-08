@@ -42,6 +42,7 @@ h6{
     h2{
         color: azure;
         font-family: 'Prata', serif;
+        font-size: 270%;
     }
     p{
         font-family: 'Inder', sans-serif; line-height: 25px; margin-bottom: 15px; color: #666;
