@@ -64,7 +64,13 @@ h6{
        
     }
     body{
-      background-color: rgba(1, 0, 7, 0.979);
+      /*background-color: rgba(1, 0, 7, 0.979);*/
+      background: rgba(255, 255, 255, 0.973);
+      background: linear-gradient(
+        to left top,
+        black,
+        rgba(3, 14, 46, 0.829)
+        );
     }
     .carousel-caption{
         transform: translateY(-50%);
